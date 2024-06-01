@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joyce
-- 👩‍💻 SW QA Resident at CIn UFPE - Motorola Project
+- 👩‍💻 SW QA Resident @ CIn UFPE/Motorola Project
 - 🌱 Currently learning Java development
 - 📫 https://www.linkedin.com/in/joyce-tavares-b878b4146/
 
