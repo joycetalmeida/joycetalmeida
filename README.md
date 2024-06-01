@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joyce
-- 👩‍💻 SW QA Intern at Motorola
-- 🌱 Currently learning Python development
+- 👩‍💻 SW QA Resident at CIn UFPE - Motorola Project
+- 🌱 Currently learning Java development
 - 📫 https://www.linkedin.com/in/joyce-tavares-b878b4146/
 
 <!---
