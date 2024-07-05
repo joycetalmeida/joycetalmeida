@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joyce
 - 👩‍💻 SW QA Resident @ CIn UFPE/Motorola Project
-- 🌱 Currently learning Java development
+- 🌱 Currently learning image processing and neural networks
 - 📫 https://www.linkedin.com/in/joyce-tavares-b878b4146/
 
 <!---
