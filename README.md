@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Joyce
 - 👩‍💻 SW QA Resident @ CIn UFPE/Motorola Project
-- 🌱 Currently learning image processing and neural networks for software testing
+- 🌱 Currently learning image processing and neural networks for software test automation
 
 <div>
   <a href="https://github.com/joycetalmeida">
