@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m Joyce
 - 👩‍💻 SW QA Resident @ CIn UFPE/Motorola Project
 - 🌱 Currently learning image processing and neural networks for software test automation
+- 📜 ISTQB® CTFL Certified
 
 <div>
   <a href="https://github.com/joycetalmeida">
