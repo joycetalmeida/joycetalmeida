@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Joyce
-- 👩‍💻 SW QA Resident @ CIn UFPE/Motorola Partnership
+- 👩‍💻 QA Automation Engineer @ Avanade Brazil
 - 🌱 Currently learning image processing and neural networks for software test automation
 - 📜 ISTQB® CTFL Certified
 
